@@ -1,53 +1,55 @@
-🌡️ Temperature Converter Website
+# 🌡️ Temperature Converter Website
+
 A simple and responsive web app to convert temperatures between Celsius, Fahrenheit, and Kelvin in real-time.
 
-🔧 Features
-🔁 Convert between:
+## 🔧 Features
 
-Celsius ↔ Fahrenheit
+* 🔁 Convert between:
 
-Celsius ↔ Kelvin
+  * Celsius ↔ Fahrenheit
+  * Celsius ↔ Kelvin
+  * Fahrenheit ↔ Kelvin
+* ⚡ Instant conversion
+* 📱 Fully responsive design
+* 🧠 Simple and beginner-friendly code
 
-Fahrenheit ↔ Kelvin
+## 🛠️ Tech Stack
 
-⚡ Instant conversion
+* HTML5
+* CSS3
+* JavaScript
 
-📱 Fully responsive design
+## 💻 Live Preview
 
-🧠 Simple and beginner-friendly code
+[🔗 View Website](#) <!-- Add your deployed site link here -->
 
-🛠️ Tech Stack
-HTML5
+## 📁 Project Structure
 
-CSS3
-
-JavaScript
-
-💻 Live Preview
-🔗 View Website <!-- Add your deployed site link here -->
-
-📁 Project Structure
-pgsql
-Copy
-Edit
+```
 temp-converter/
 ├── index.html
 ├── style.css
 └── script.js
-🚀 How to Run Locally
-Clone this repo:
+```
 
-bash
-Copy
-Edit
+## 🚀 How to Run Locally
+
+1. Clone this repo:
+
+```bash
 git clone https://github.com/yourusername/temp-converter.git
-Open index.html in any browser.
+```
 
-📸 Screenshots
-(Optional: Add a screenshot or gif of the UI here)
+2. Open `index.html` in any browser.
 
-🙌 Contributing
+## 📸 Screenshots
+
+*(Optional: Add a screenshot or gif of the UI here)*
+
+## 🙌 Contributing
+
 Pull requests are welcome. Feel free to suggest new features!
 
-📜 License
-This project is open-source under the MIT License.
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
